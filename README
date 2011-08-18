@@ -1,0 +1,36 @@
+Global setup:
+
+ Set up git
+  git config --global user.name "Zubkov Michael"
+  git config --global user.email zubkov.michael@gmail.com
+        
+
+Next steps:
+
+  mkdir mailer
+  cd mailer
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:m-zubkov/mailer.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:m-zubkov/mailer.git
+  git push -u origin master
+      
+
+Importing a Subversion Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
+
